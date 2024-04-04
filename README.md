@@ -1,4 +1,4 @@
-## React技术栈相关面试题 50道面试题
+## React技术栈50道面试题
 
 ### 1. 区分Real DOM和Virtual DOM
 ```
